@@ -36,4 +36,4 @@ You must know that the class is somehting I have written for own use, so don't e
 
 
 <h2>Example</h2>
-<p>Comes soon..</p>
+<p>Comming soon..</p>
