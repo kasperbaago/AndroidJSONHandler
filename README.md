@@ -28,7 +28,7 @@ You must know that the class is somehting I have written for own use, so don't e
         <b>String method:</b> Which method that should be used to make the call("post" or "get").
       </li>
       <li>
-        <b>String callback:</b> The method that should be called with the result of your request to the server. This method will be called an JSONArray as parameter.
+        <b>String callback:</b> The method that should be called with the result of your request to the server. This method will be called with a JSONArray as parameter.
       </li>
     </ul>
   </li>
