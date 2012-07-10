@@ -10,7 +10,7 @@ The class is somehting I have written for own use, so don't expect it to be perf
 </p>
 
 <h2>How to install the library:</h2>
-<p>Download the "dk" folder, and import it into your "src" directory in your app.</p>
+<p>Download the files, and import the <b>"dk"</b> folder(width subfolders) into your <b>"src"</b> folder.</p>
 
 <h2>How to use:</h2>
 <ol>
