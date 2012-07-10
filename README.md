@@ -4,7 +4,7 @@
 <h2>Introduction:</h2>
 <p>
 Android json Handler is a library for Android, which make it easy to communicate with JSON api's on webservers.<br/>
-The library extends the AsyncTask Android class, so it will work asyncrinisly with your code and not stop the whole exicution of your program.<br/>
+The library extends the AsyncTask Android class, so it will work asynchronously with your code and not stop the whole exicution of your program.<br/>
 You can define the different dialog messages, using different methods in the the class.<br/>
 The class is written for own use, so don't expect it to be perfectly written an documentet :)
 </p>
