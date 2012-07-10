@@ -43,7 +43,7 @@ The class is somehting I have written for own use, so don't expect it to be perf
     </ul>
   </li>
   <li>
-    The method <i>.getHTML()</i> can be used to return the clear text HTML of the callback. This is usefull to debuging.
+    The method <i>.getHTML()</i> can be used to return the clear text HTML of the callback. This is usefull when debuging.
   </li>
 </ol>
 
