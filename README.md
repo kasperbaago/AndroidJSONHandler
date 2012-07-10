@@ -35,5 +35,5 @@ You must know that the class is somehting I have written for own use, so don't e
 </ol>
 
 
-<h2>Example</h2>
+<h2>Example:</h2>
 <p>Comming soon..</p>
