@@ -48,5 +48,5 @@ The class is written for own use, so don't expect it to be perfectly written an 
 </ol>
 
 
-<h2>Example of how to use:</h2>
+<h2>Example:</h2>
 <p>Comming soon..</p>
