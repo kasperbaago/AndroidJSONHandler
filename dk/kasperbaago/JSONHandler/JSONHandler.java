@@ -1,5 +1,5 @@
 /* 
- * AJAX HANDLER
+ * JSON HANDLER
  * Contacts a JSON web server, and returns the data as an JSON array in a callback function.
  * The class extends async task.
  * 
@@ -7,7 +7,7 @@
  * @author: Kasper Baag¿ Jensen(kaper@kasperbaago.dk)
  * @license: 
  */
-package dk.kasperbaago.AjaxHandler;
+package dk.kasperbaago.JSONHandler;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -42,7 +42,7 @@ import android.os.AsyncTask;
 import android.os.Process;
 import android.util.Log;
 
-public class AjaxHandler extends AsyncTask<String, Process, JSONArray>{
+public class JSONHandler extends AsyncTask<String, Process, JSONArray>{
 	
 	private ProgressDialog prossDiag;
 	private Context context;
@@ -65,7 +65,7 @@ public class AjaxHandler extends AsyncTask<String, Process, JSONArray>{
 	private String method;
 	
 	//Constructor for AJAX handler
-	public AjaxHandler(Context con) {
+	public JSONHandler(Context con) {
 		this.context = con;
 		this.object = con;
 		this.errorHasHappened = false;

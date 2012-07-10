@@ -1,9 +1,9 @@
-<h1>Android Ajax Handler</h1>
+<h1>Android JSON Handler</h1>
 ====================
 
 <h2>Introduction:</h2>
 <p>
-Android Ajax Handler is a library for Android, which make it easy to communicate with JSON apies on webservers. <br/>
+Android json Handler is a library for Android, which make it easy to communicate with JSON apies on webservers. <br/>
 The library extends the AsyncTask Android class, so it will work asyncrinisly with your code and not stop the whole exicution of your program.<br/>
 You can self define the different dialog messages, using different methods in the the class.<br/>
 The class is somehting I have written for own use, so don't expect it to be perfectly written an documentet :)
@@ -14,7 +14,7 @@ The class is somehting I have written for own use, so don't expect it to be perf
 
 <h2>How to use:</h2>
 <ol>
-  <li>Create a new AjaxHandler object, and insert the context as parameter</li>
+  <li>Create a new JSONHandler object, and insert the context as parameter</li>
   <li>If you want to upload a file, use the method <i>setNameOfFileField(fieldname)</i> to set which field contains the file.</li>
   <li>Use <i>setDiag(tittle, message)</i> method, to set which text should be shown while the request is made.</li>
   <li>
