@@ -69,6 +69,7 @@ public class JSONHandler extends AsyncTask<String, Process, JSONArray>{
 		this.context = con;
 		this.object = con;
 		this.errorHasHappened = false;
+		this.fileField = "file";
 		
 		//Initialize dialog messages
 		this.diagTitle = "Please wait...";
