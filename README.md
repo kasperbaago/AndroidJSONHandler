@@ -24,7 +24,7 @@ The class is written for own use, so don't expect it to be perfectly written an 
     Error message is <b>default</b> set to be shown! If an error accurs, the callback will not be called and an error message will be shown to the user.<br/>
     The text of this error message can be set using <i>.setErrMsg(tittle, message)</i>.<br/>
     If you do not want the error message to appear, and the callback to be called even if an error happens, use the <i>.showErrMsg(false)</i> to disable the error message. 
-    The callback will then be called with the last parameter set to true, if an error has accured.
+    The callback will then be called with the last parameter set to true, if an error has occurred.
   </li>
   <li>
     Use the method <i>.makeRequest(String url, List<nameValuePairs> parameters, String method, String callback)</i>. <br/>
@@ -41,7 +41,7 @@ The class is written for own use, so don't expect it to be perfectly written an 
       </li>
       <li>
         <b>String callback:</b> The method that should be called with the result of your request to the server.<br/>
-        This method will be called with two parameters: The first is a JSONArray, containing the returned JSON data. The last is a boolean value, which is true if an error has accured during exicution.
+        This method will be called with two parameters: The first is a JSONArray, containing the returned JSON data. The last is a boolean value, which is true if an error has occurred during exicution.
       </li>
     </ul>
   </li>
