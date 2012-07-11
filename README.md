@@ -11,8 +11,8 @@ The class is written for own use, so don't expect it to be perfectly written an 
 
 <h2>How to install the library:</h2>
 <ol>
-  <li>Download <a href='http://hc.apache.org/downloads.cgi'>Apache HttpClient</a> binaries, and inport the "/lib/httpmime-4.2.1.jar" into your <b>"libs"</b> folder in your Android Project. Add the "httpmime-4.2.1.jar" to your build path(see properties for project in Eclipse).</li>
-  <li><a href='https://github.com/kasperbaago/AndroidJSONHandler/zipball/master'>Download <b>AndroidJSONHandler</b></a>, and import the <b>"dk"</b> folder(width subfolders) into your <b>"src"</b> folder.</li>
+  <li>Download <a href='http://hc.apache.org/downloads.cgi' target='_blank'>Apache HttpClient</a> binaries, and inport the "/lib/httpmime-4.2.1.jar" into your <b>"libs"</b> folder in your Android Project. Add the "httpmime-4.2.1.jar" to your build path(see properties for project in Eclipse).</li>
+  <li><a href='https://github.com/kasperbaago/AndroidJSONHandler/zipball/master' target='_blank'>Download <b>AndroidJSONHandler</b></a>, and import the <b>"dk"</b> folder(width subfolders) into your <b>"src"</b> folder.</li>
 </ol>
 
 <h2>How to use:</h2>
