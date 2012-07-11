@@ -17,7 +17,7 @@ The class is written for own use, so don't expect it to be perfectly written an 
 
 <h2>How to use:</h2>
 <ol>
-  <li>Create a new JSONHandler object, and insert the context as parameter</li>
+  <li>Create a new JSONHandler object, and insert the context as parameter.</li>
   <li>If you want to upload a file, use the method <i>.setNameOfFileField(fieldname)</i> to set which field contains the file.</li>
   <li>Use <i>.setDiag(tittle, message)</i> method, to set which text should be shown while the request is made.</li>
   <li>
