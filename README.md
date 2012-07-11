@@ -52,4 +52,4 @@ The class is written for own use, so don't expect it to be perfectly written an 
 
 
 <h2>Example:</h2>
-<p>Comming soon..</p>
+You can check out my example of using the library <a href='https://github.com/kasperbaago/AndroidJSONHandler/blob/master/example/src/dk/kasperbaago/JSONHandlerSample/MainActivity.java'>here</a>.
